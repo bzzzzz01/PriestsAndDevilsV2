@@ -2,7 +2,7 @@
 
 ![avatar](http://wx3.sinaimg.cn/mw690/932e8e0cgy1fq7ztgyjqbj20rd07gjsg.jpg)
 
-![avatar](http://wx4.sinaimg.cn/mw690/932e8e0cgy1fq7ztggidgj207m0glaa2.jpg
+![avatar](http://wx4.sinaimg.cn/mw690/932e8e0cgy1fq7ztggidgj207m0glaa2.jpg)
 
 ##### 游戏对象的使用
 摄像机：深度、 透视与正交视图、 天空盒、 视野范围、 视野大小、 绘图位置、 双摄像机绘制小地图
